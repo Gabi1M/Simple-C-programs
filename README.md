@@ -9,3 +9,4 @@ Some simple C programs designed to work on Linux systems
       2 - prints the digits from the read text to the standard output
       3 - transform all lower case letters from the read text into upper case and prints them to the standard output
 4. Consists of two programs, a client and a server. The clients transmits the server a username and the server returns the client the number of active processes of the user.
+5. Some examples of function pointers and use of signals.
